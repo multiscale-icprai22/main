@@ -1,4 +1,4 @@
-## Analysis and learning of multi-variate, multi-temporal, multi-resolution and multi-source remote sensing data
+## About
 
 The huge amount of data currently produced by modern remote sensing missions (aerial and
 satellite) has raised up new challenges for the remote sensing communities. These sensors are now
@@ -10,6 +10,7 @@ Learning techniques as unsupervised and supervised approaches, neural networks, 
 domain adaptation, time series analysis, etc. are used to tackle different challenging remote sensing
 oriented tasks such as semantic segmentation, classification, detection and tracking of objects for earth
 observation and environmental monitoring.
+
 This special session will be an opportunity to give an overview of recent progress of PRAI
 research studies, in which new methodological, computational and practical achievements dedicated
 to multivariate remote sensing data will be presented. It also will be a renewed opportunity to gather
@@ -17,6 +18,11 @@ PRAI and domain-experts researchers, in order to exchange, debate and draw short
 research objectives around the exploitation, analysis and processing of multimodal remote sensing
 data coming from heterogeneous sensors. The aim is to stimulate concrete discussions to pave the way
 to new frameworks especially tailored in the domain.
+
+## Call for Papers
+
+We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
+
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
 remote sensing data). Topics of interest include, but are not limited to:
