@@ -38,39 +38,20 @@ remote sensing data). We welcome contributions of both technical and perspective
 
 ## Paper submission guidelines
 
+The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines).  Accepted papers will be presented at the conference and will be published by Springer in the Lecture Notes in Computer Science.
+Articles should be prepared according to the LNCS author guidelines and templates and they should be at most twelve pages long. All papers must be submitted in electronic format as PDF files before the submission deadline.
+Submissions will be peer-reviewed by at least 3 reviewers, and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
 
-You can use the [editor on GitHub](https://github.com/multiscale-icprai22/multiscale-icprai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dates
+All times are in Central European Time (CET)
+- Paper submission deadline 	December 15th, 2021
+- Author notification 	March 8th, 2022
+- Camera ready deadline 	March 22th, 2022
+- Conference  June 1rst-3rd, 2022
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/multiscale-icprai22/multiscale-icprai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Special session organizers
+- Erchan Aptoula, Gebze University
+- Laetitia Chapel, IRISA
+- Sébastien Lefèvre, IRISA
+- Minh-Tan Pham, IRISA
