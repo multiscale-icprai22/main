@@ -1,6 +1,8 @@
 ---
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
+layout: page
+title:  Optimal Transport and Machine Learning  
+description: NeurIPS 2021 Workshop - 13 December 2021
+background: '/img/color_transfer.jpg'
 ---
 
 ## Analysis and learning of multi-variate, multi-temporal, multi-resolution and multi-source remote sensing data
