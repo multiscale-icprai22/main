@@ -42,7 +42,6 @@ The contributed papers will be submitted in the same format as regular papers of
 Articles should be prepared according to the LNCS author guidelines and templates and they should be at most twelve pages long. All papers must be submitted in electronic format as PDF files before the submission deadline.
 Submissions will be peer-reviewed by at least 3 reviewers, and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
 
-
 ### Dates
 All times are in Central European Time (CET)
 - Paper submission deadline 	December 15th, 2021
@@ -50,7 +49,10 @@ All times are in Central European Time (CET)
 - Camera ready deadline 	March 22th, 2022
 - Conference  June 1rst-3rd, 2022
 
-### Special session organizers
+### Submission website
+
+
+## Special session organizers
 - Erchan Aptoula, Gebze University
 - Laetitia Chapel, IRISA
 - Sébastien Lefèvre, IRISA
