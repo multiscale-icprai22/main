@@ -36,6 +36,9 @@ remote sensing data). We welcome contributions of both technical and perspective
 - Feature extraction and feature selection for multi* remote sensing data
 - Multi-task learning from multi* remote sensing data
 
+## Paper submission guidelines
+
+
 You can use the [editor on GitHub](https://github.com/multiscale-icprai22/multiscale-icprai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
