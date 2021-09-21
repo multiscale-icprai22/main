@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title:              Multiscale at ICPRAI'22
+email:              
+description:        Multiscale at ICPRAI'22
+author:             Multiscale Organization team
+baseurl:            "/"
+url:                "https://multiscale-icprai22.github.io"
