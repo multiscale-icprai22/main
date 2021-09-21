@@ -21,22 +21,20 @@ to new frameworks especially tailored in the domain.
 
 ## Call for Papers
 
-We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
-
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
-remote sensing data). Topics of interest include, but are not limited to:
-• Artificial intelligence applied to multi* remote sensing data
-• Recognition of patterns, objects and targets from multi* remote sensing data
-• 2D/3D remote sensing data analysis and processing
-• Multi* remote sensing image classification, retrieval and semantic segmentation
-• Machine learning, deep learning approaches to deal with multi* remote sensing data
-• Analysis of multi-resolution remote sensing images
-• Fusion of multi-source remote sensing data
-• Multi-temporal remote sensing data analysis and classification
-• Transfer Learning and domain adaptation for multi* remote sensing data
-• Feature extraction and feature selection for multi* remote sensing data
-• Multi-task learning from multi* remote sensing data
+remote sensing data). We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
+- Artificial intelligence applied to multi* remote sensing data
+- Recognition of patterns, objects and targets from multi* remote sensing data
+- 2D/3D remote sensing data analysis and processing
+- Multi* remote sensing image classification, retrieval and semantic segmentation
+- Machine learning, deep learning approaches to deal with multi* remote sensing data
+- Analysis of multi-resolution remote sensing images
+- Fusion of multi-source remote sensing data
+- Multi-temporal remote sensing data analysis and classification
+- Transfer Learning and domain adaptation for multi* remote sensing data
+- Feature extraction and feature selection for multi* remote sensing data
+- Multi-task learning from multi* remote sensing data
 
 You can use the [editor on GitHub](https://github.com/multiscale-icprai22/multiscale-icprai.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
