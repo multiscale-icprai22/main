@@ -1,4 +1,3 @@
-
 ## Analysis and learning of multi-variate, multi-temporal, multi-resolution and multi-source remote sensing data
 
 The huge amount of data currently produced by modern remote sensing missions (aerial and
