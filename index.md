@@ -1,5 +1,7 @@
 ---
 layout: default
+title:  Optimal Transport and Machine Learning  
+description: NeurIPS 2021 Workshop - 13 December 2021
 ---
 
 ## Analysis and learning of multi* remote sensing data
