@@ -55,10 +55,10 @@ Submissions will be peer-reviewed by at least 3 reviewers and assessed based on 
 
 ### Dates
 All times are in Central European Time (CET)
-- Paper submission deadline 	December 15th, 2021
-- Author notification 	March 8th, 2022
-- Camera ready deadline 	March 22th, 2022
-- Conference  June 1rst-3rd, 2022
+- Paper submission deadline : December 15th, 2021
+- Author notification :	March 8th, 2022
+- Camera ready deadline :	March 22th, 2022
+- Conference : June 1rst-3rd, 2022
 
 ### Submission website
 Submissions can be submitted in [easychair](https://easychair.org/my/conference?conf=icprai2022), indicating that the paper goes for the multiscale special session.
