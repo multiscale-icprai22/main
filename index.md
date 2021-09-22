@@ -2,7 +2,11 @@
 layout: default
 ---
 
-## Analysis and learning of multi-variate, multi-temporal, multi-resolution and multi-source remote sensing data
+## Analysis and learning of multi* remote sensing data
+
+This session deals with the learning and analysis of multi-variate and/or multi-temporal
+and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
+remote sensing data).
 
 The huge amount of data currently produced by modern remote sensing missions (aerial and
 satellite) has raised up new challenges for the remote sensing communities. These sensors are now
@@ -25,9 +29,7 @@ to new frameworks especially tailored in the domain.
 
 ## Call for Papers
 
-This session deals with the learning and analysis of multi-variate and/or multi-temporal
-and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
-remote sensing data). We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
+We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
 - Artificial intelligence applied to multi* remote sensing data
 - Recognition of patterns, objects and targets from multi* remote sensing data
 - 2D/3D remote sensing data analysis and processing
