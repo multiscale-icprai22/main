@@ -1,10 +1,10 @@
 ---
 layout: pages
-title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop - 13 December 2021
+title:  Analysis and learning of multi* remote sensing data
+description: Special session of ICPRAI'22 - 1 June 2022
 ---
 
-## Analysis and learning of multi* remote sensing data
+## About
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
