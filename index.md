@@ -49,8 +49,8 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
 ## Paper submission guidelines
 
-The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines). Accepted papers will be presented at the conference and will be published by Springer in the [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
-Articles should be prepared according to the LNCS author guidelines and templates and they should be at most twelve pages long. All papers must be submitted in electronic format as PDF files before the submission deadline.
+Accepted papers will be presented at the conference in a special session and will be published by Springer in the [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
+Articles should be prepared according to the [LNCS author guidelines](https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines) and [templates](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) and they should be at most twelve pages long. 
 Submissions will be peer-reviewed by at least 3 reviewers and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
 
 ### Dates
@@ -61,11 +61,11 @@ All times are in Central European Time (CET)
 - Conference  June 1rst-3rd, 2022
 
 ### Submission website
-
+Submissions can be submitted in [easychair](https://easychair.org/my/conference?conf=icprai2022), indicating that the paper goes for the multiscale special session.
 
 ## Special session organizers
-- Erchan Aptoula, Gebze University
-- Laetitia Chapel, IRISA
-- Sébastien Lefèvre, IRISA
-- Minh-Tan Pham, IRISA
+- [Erchan Aptoula](https://sites.google.com/view/erchan-aptoula/home?authuser=0), Gebze Technical University
+- [Laetitia Chapel](https://people.irisa.fr/Laetitia.Chapel/), IRISA
+- [Sébastien Lefèvre](https://people.irisa.fr/Sebastien.Lefevre/), IRISA
+- [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/), IRISA
  
