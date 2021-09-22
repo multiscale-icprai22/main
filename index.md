@@ -29,6 +29,9 @@ research objectives around the exploitation, analysis and processing of multimod
 data coming from heterogeneous sensors. The aim is to stimulate concrete discussions to pave the way
 to new frameworks especially tailored in the domain.
 
+## Venue
+Multiscale is a special session part of ICPRAI 2022, which is the 3rd International Conference on Pattern Recognition and Artificial Intelligence. It is held in Paris from the 1st to the 3rd of June and follows the successful 2018 edition located in Montréal, Canada and the 2020 (virtual) edition held in Zhongshan City, China.
+
 ## Call for Papers
 
 We welcome contributions of both technical and perspective papers from a wide range of topics, including but not limited to the following topics of interest: 
@@ -46,9 +49,9 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
 ## Paper submission guidelines
 
-The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines).  Accepted papers will be presented at the conference and will be published by Springer in the Lecture Notes in Computer Science.
+The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines). Accepted papers will be presented at the conference and will be published by Springer in the Lecture Notes in Computer Science.
 Articles should be prepared according to the LNCS author guidelines and templates and they should be at most twelve pages long. All papers must be submitted in electronic format as PDF files before the submission deadline.
-Submissions will be peer-reviewed by at least 3 reviewers, and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
+Submissions will be peer-reviewed by at least 3 reviewers and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
 
 ### Dates
 All times are in Central European Time (CET)
