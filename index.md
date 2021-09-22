@@ -1,9 +1,3 @@
----
-layout: pages
-title: Analysis and learning of multi* remote sensing data
-description: Multiscale special session of [ICPRAI'22](https://icprai2022.sciencesconf.org/) - 1 June 2022
----
-
 ## About
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
