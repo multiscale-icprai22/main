@@ -1,7 +1,7 @@
 ---
 layout: pages
 title:  Analysis and learning of multi* remote sensing data
-description: Special session of ICPRAI'22 - 1 June 2022
+description: Special session of [ICPRAI'22](https://icprai2022.sciencesconf.org/) - 1 June 2022
 ---
 
 ## About
@@ -30,7 +30,7 @@ data coming from heterogeneous sensors. The aim is to stimulate concrete discuss
 to new frameworks especially tailored in the domain.
 
 ## Venue
-Multiscale is a special session part of ICPRAI 2022, which is the 3rd International Conference on Pattern Recognition and Artificial Intelligence. It is held in Paris from the 1st to the 3rd of June and follows the successful 2018 edition located in Montréal, Canada and the 2020 (virtual) edition held in Zhongshan City, China.
+Multiscale is a special session part of [ICPRAI'22](https://icprai2022.sciencesconf.org/), which is the 3rd International Conference on Pattern Recognition and Artificial Intelligence. It is held in Paris from the 1st to the 3rd of June and follows the successful 2018 edition located in Montréal, Canada and the 2020 (virtual) edition held in Zhongshan City, China.
 
 ## Call for Papers
 
@@ -49,7 +49,7 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
 ## Paper submission guidelines
 
-The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines). Accepted papers will be presented at the conference and will be published by Springer in the Lecture Notes in Computer Science.
+The contributed papers will be submitted in the same format as regular papers of the ICPRAI'22 conference (see Author guidelines). Accepted papers will be presented at the conference and will be published by Springer in the [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
 Articles should be prepared according to the LNCS author guidelines and templates and they should be at most twelve pages long. All papers must be submitted in electronic format as PDF files before the submission deadline.
 Submissions will be peer-reviewed by at least 3 reviewers and assessed based on their novelty, clarity significance, and relevance regarding the special session topics. Submissions that are already accepted or under review for another venue are not accepted. 
 
