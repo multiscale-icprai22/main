@@ -2,9 +2,10 @@
 layout: page
 title:  Optimal Transport and Machine Learning  
 description: NeurIPS 2021 Workshop - 13 December 2021
+background: 'illustration_web.png'
 ---
 
-## About
+## About 2
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
