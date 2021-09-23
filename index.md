@@ -2,8 +2,8 @@
 layout: page
 title:  Optimal Transport and Machine Learning  
 description: NeurIPS 2021 Workshop - 13 December 2021
-background: '/img/color_transfer.jpg'
 ---
+
 ## About
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
