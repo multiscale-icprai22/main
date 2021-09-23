@@ -1,8 +1,6 @@
 ---
-layout: default
 title:  Multiscale - learning and analysis of multi* remote sensing images
 description: Special Session at ICPRAI'22 in Paris - 1rst June 2022
-background: 'illustration_web2.png'
 ---
 
 
