@@ -1,3 +1,12 @@
-title: Cayman theme
+
 description: Special Session at ICPRAI'22, 1rst June 2022
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
