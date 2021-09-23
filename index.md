@@ -7,7 +7,7 @@ background: 'illustration_web2.png'
 
 
 
-## About 8
+## About 9
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
