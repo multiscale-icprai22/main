@@ -6,7 +6,7 @@ description: Special Session at ICPRAI'22 in Paris - 1rst June 2022
 
 
 
-## About 9
+## About
 
 This session deals with the learning and analysis of multi-variate and/or multi-temporal
 and/or multi-resolution and/or multi-source remote sensing images (hereafter denoted as multi*
