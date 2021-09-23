@@ -1,6 +1,6 @@
 ---
-title:  Optimal Transport and Machine Learning  
-description: NeurIPS 2021 Workshop - 13 December 2021
+title:  Multiscale: learning and analysis of multi* remote sensing images
+description: Special Session at ICPRAI'22 in Paris - 1rst June 2022
 ---
 
 ## About 3
