@@ -63,7 +63,7 @@ All times are in Central European Time (CET)
 - Conference : June 1rst-3rd, 2022
 
 ### Submission website
-Submissions can be submitted in [easychair](https://easychair.org/my/conference?conf=icprai2022), indicating that the paper goes for the multiscale special session.
+Submissions can be submitted in [easychair](https://easychair.org/my/conference?conf=icprai2022#) and select the track "**SS - Analysis and learning of multi-variate, multi-temporal, multi-resolution and multi-source remote sensing data**".
 
 ## Special session organizers
 - [Erchan Aptoula](https://sites.google.com/view/erchan-aptoula/home?authuser=0), Gebze Technical University
