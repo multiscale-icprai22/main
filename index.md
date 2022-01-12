@@ -3,8 +3,8 @@ layout: default
 title:  Multiscale - learning and analysis of multi* remote sensing images
 description: Special Session at ICPRAI'22 in Paris - 1rst June 2022
 ---
-
-# Deadline extension: January 15th, 2022 
+Due to the many requests received by the chairs of the ICPRAI conference, mostly motivated by COVID-19 pandemic, they have decided to provide a
+# Deadline extension: January 31th, 2022 
 
 
 ![Drag Racing](illustration_web2.png)
@@ -60,7 +60,7 @@ Submissions will be peer-reviewed by at least 3 reviewers and assessed based on 
 
 ### Dates
 All times are in Central European Time (CET)
-- Paper submission deadline : ~~December 15th, 2021~~ **Deadline extension: January 15th, 2022**
+- Paper submission deadline : ~~December 15th, 2021~~ **Deadline extension: January 31th, 2022**
 - Author notification :	March 8th, 2022
 - Camera ready deadline :	March 22th, 2022
 - Conference : June 1rst-3rd, 2022
